@@ -1,0 +1,66 @@
+Fuente de Textos:
+https://www.ejemplos.co/15-ejemplos-de-textos-argumentativos/
+
+
+******************************************
+TEXTO PRUEBA 1
+
+La voluntad del pueblo, a través de sus representantes, se hace presente hoy en este augusto recinto para dar testimonio de que se inicia en estos instantes una nueva etapa de nuestra vida nacional. […] Vamos a vivir en libertad. De eso, no quepa duda. Como tampoco debe caber duda de que esa libertad va a servir para construir, para crear, para producir, para trabajar, para reclamar Justicia –toda la justicia, la de las leyes comunes y la de las leyes sociales–, para sostener ideas, para organizarse en defensa de los intereses y los derechos legítimos del pueblo todo y de cada sector en particular. […] La democracia es un valor aún más alto que el de una mera forma de legitimidad del poder, porque con la democracia no solo se vota, sino que también se come, se educa y se cura.
+
+
+Genial, entonces qué te parece analizar este texto:
+
+Desambiguador de Argumentos
+El texto que has compartido parece ser un discurso de corte político que habla sobre la democracia, la libertad y la justicia. Sin embargo, puede contener cierta ambigüedad debido a los siguientes conceptos:
+
+"Voluntad del pueblo": un término bastante general que puede interpretarse de varias maneras. ¿Se refiere a la mayoría del pueblo, a un segmento específico, o a todo el pueblo en general?
+"Libertad para construir, crear, producir, trabajar, reclamar justicia": estos términos pueden ser considerados generales o vagos sin un contexto específico. ¿Qué se está construyendo, creando o produciendo? ¿A qué tipo de trabajo se refiere y qué tipo de justicia se está reclamando?
+"La de las leyes comunes y la de las leyes sociales": ¿A qué leyes comunes y sociales se está haciendo referencia?
+"Los intereses y derechos legítimos del pueblo todo y de cada sector en particular": ¿Qué intereses y derechos legítimos son estos, y qué define a "cada sector"?
+"Se come, se educa y se cura": estas acciones con la democracia pueden ser interpretadas de varias formas si se toman literalmente.
+De acuerdo con estos elementos, el Índice de Ambigüedad, en una escala del 0 al 10, podría ser alrededor del 7. Para reducir la ambigüedad, sería de ayuda aportar información adicional o aclaraciones referentes a las áreas antes mencionadas.
+
+Desambiguador de Argumentos
+Gracias por esas aclaraciones. Aquí te dejo el nuevo texto:
+
+La voluntad del pueblo, referida aquí a la intención de una porción representativa de la sociedad con autoridad otorgada por sus organizaciones, se hace presente hoy en este augusto recinto para dar testimonio de que se inicia en estos instantes una nueva etapa de nuestra vida nacional. Esta nueva etapa va a caracterizarse por una intención de no imponer restricciones a la libertad, especialmente en lo que respecta a construir, crear, producir, trabajar y reclamar justicia. De eso, no quepa duda. Como tampoco debe caber duda de que esa libertad va a servir para estos fines, con un enfoque específico en la defensa de estas libertades. Esto será en prol de las leyes comunes, pero también de los acuerdos logrados entre las organizaciones sociales, para sostener ideas, para organizarse en defensa de los intereses y los derechos legítimos de cada sector de la población, considerando tanto la totalidad del pueblo como cada sector en particular. La democracia se presenta como un valor aún más alto que el de una mera forma de legitimidad del poder, porque con la democracia no solo se vota, sino que también se tiene la intención de ofrecer servicios de alimentación (se come), se promueve el aprendizaje (se educa) y se proporcionan servicios de salud (se cura).
+
+
+
+
+Después de estas precisiones, donde se explica mejor el sentido de estos conceptos y se aclaran los términos ambiguos, creo que el Índice de Ambigüedad ha disminuido considerablemente. En una escala del 0 al 10, ahora calificaría la ambigüedad de este texto como un 2. Esta valoración se basa en la mayor nitidez y exactitud con la que se presentan ahora los conceptos.
+
+
+******************************************
+TEXTO PRUEBA 2
+
+En Abu Dhabi acaba de finalizar el Campeonato Mundial de natación en pileta de 25 metros. […] Sin embargo, la presencia de algunas estrellas no disimula la ausencia de muchas otras. […]
+
+Encrucijada difícil para el deporte acuático, jaqueado por una Liga que privilegia solo los ingresos para media docena de estrellas, además del espectáculo televisivo, los puntos sobre las marcas y solo las pruebas de velocidad, dejando de lado al resto y por otro sector las dificultades técnicas de algunos entrenadores en varios países, que creen pueden transformar exitosamente una sesión de entrenamiento específico en un mix de actividades lúdicas. Entiendo que no va a funcionar y habrá que volver a las fuentes.
+
+
+Desambiguador de Argumentos
+
+El texto analizar parece ser un artículo de opinión sobre el Campeonato Mundial de natación en pileta de 25 metros en Abu Dhabi. Sin embargo, existen ciertos conceptos que podrían generar ambigüedad:
+
+"Presencia de algunas estrellas / ausencia de muchas otras": ¿A qué estrellas se refiere exactamente?
+"Liga que privilegia solo los ingresos para media docena de estrellas": ¿A qué Liga se refiere? ¿Cuáles son esas estrellas?
+"Espectáculo televisivo, los puntos sobre las marcas y solo las pruebas de velocidad": ¿Se podría proporcionar más detalles o contexto sobre estos aspectos?
+"Resto y por otro sector las dificultades técnicas de algunos entrenadores": ¿A qué "resto" se refiere y cuáles son las "dificultades técnicas" que enfrentan los entrenadores?
+"Sesión de entrenamiento específico en un mix de actividades lúdicas": ¿Qué tipo de entrenamiento y qué clases de actividades lúdicas?
+"Volver a las fuentes": Este es un término bastante general. ¿A qué fuentes está sugiriendo que se vuelva?
+Basándome en estos elementos, calcularía que el Índice de Ambigüedad de este texto, en una escala del 0 al 10, rondaría el 7, similar al del texto anterior. Para reducir la ambigüedad, sería beneficioso proporcionar información adicional o aclaraciones sobre los puntos antes mencionados.
+
+User
+Genial. No tengo nuevos contextos para este texto asi que te pido que por favor generes un texto nuevo con tus propias premisas de modo que sea un texto menos ambiguo. No te preocupes de asumir algunos detalles puesto que me servirá sólo de ejemplo.
+
+Desambiguador de Argumentos
+Por supuesto, aquí te dejo un ejemplo del texto revisado con la intención de reducir la ambigüedad:
+
+Recientemente, en Abu Dhabi finalizó el Campeonato Mundial de Natación en Piscina Corta (25 metros). Durante el evento, se echaron de menos algunas estrellas significativas del deporte, como los campeones olímpicos Michael Phelps y Katie Ledecky, restando algo de brillo al campeonato.
+
+El Mundial se encuentra en una encrucijada complicada. Por un lado, la Federación Internacional de Natación (FINA) parece privilegiar los ingresos generados por un grupo selecto de atletas de alto perfil, concentrándose en el espectáculo televisivo, dando prioridad a las pruebas de velocidad sobre las de resistencia y poniendo énfasis en las marcas personales de los atletas.
+
+Por otro lado, existe un desafío creciente en los métodos de entrenamiento en varios países. Algunos entrenadores han intentado convertir las sesiones específicas de acondicionamiento físico y técnica en un compendio de actividades recreativas, con la esperanza de hacer que el entrenamiento sea más atractivo. Sin embargo, hay una preocupación generalizada de que esta estrategia no resulte eficaz a largo plazo. Puede que sea necesario un retorno a las técnicas de entrenamiento tradicionales, privilegiando la disciplina y la rigorosidad técnica por sobre la diversión.
+
+Este intento por reducir la ambigüedad en el texto original, en una escala del 0 al 10, llevaría el Índice de Ambigüedad a un aproximado de 2. Este valor se basa en el entendimiento mejorado a través de la precisión de los conceptos detallados.
