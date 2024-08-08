@@ -1,0 +1,44 @@
+{
+  "parametros_cognitivos": [
+    {
+      "nombre": "Memoria de Corto Plazo",
+      "definicion": "La capacidad de recordar y manipular información de manera temporal, durante un período breve de tiempo.",
+      "ejemplo": "Recordar un número de teléfono que se acaba de escuchar mientras se marca el número."
+    },
+    {
+      "nombre": "Memoria de Largo Plazo",
+      "definicion": "La habilidad de almacenar y recuperar información y experiencias a lo largo del tiempo.",
+      "ejemplo": "Recordar el nombre de tu maestro de primaria o las capitales de los países."
+    },
+    {
+      "nombre": "Criterios de Evaluación",
+      "definicion": "Parámetros o características específicas utilizados para juzgar o valorar el desempeño o la calidad de algo.",
+      "ejemplo": "Claridad de la redacción, uso apropiado de conceptos clave, presencia de argumentos sólidos."
+    },
+    {
+      "nombre": "Decisión",
+      "definicion": "El proceso de elegir una opción entre varias alternativas, basado en la evaluación de información y el juicio.",
+      "ejemplo": "Decidir qué tema de ensayo elegir entre varias opciones propuestas."
+    },
+    {
+      "nombre": "Razonamiento",
+      "definicion": "La capacidad de pensar de manera lógica y llegar a conclusiones a partir de información y evidencia.",
+      "ejemplo": "Analizar los datos proporcionados y deducir cuál es la solución más adecuada al problema planteado."
+    },
+    {
+      "nombre": "Solución de Problemas",
+      "definicion": "La habilidad de identificar y resolver problemas de manera efectiva, aplicando estrategias y conocimientos pertinentes.",
+      "ejemplo": "Encontrar una manera de mejorar la eficiencia de un proceso, utilizando los recursos disponibles."
+    },
+    {
+      "nombre": "Tipo de Lenguaje",
+      "definicion": "Las características y las convenciones del lenguaje utilizado, como el nivel de formalidad, el estilo y la estructura gramatical.",
+      "ejemplo": "Usar un lenguaje académico y formal en un ensayo, en lugar de un estilo más informal y coloquial."
+    },
+    {
+      "nombre": "Glosarios",
+      "definicion": "Listas de términos o palabras clave, junto con sus definiciones, que ayudan a comprender conceptos especializados.",
+      "ejemplo": "Un glosario con los principales términos relacionados con el cambio climático y sus definiciones."
+    }
+  ]
+}
