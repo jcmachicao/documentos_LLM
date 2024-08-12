@@ -1,0 +1,51 @@
+{
+    "nombre": "Creación de Lista de Referencias Bibliográficas",
+    "version": "1.0",
+    "pasos": [
+      {
+        "id": "Paso1",
+        "autor": "Humano",
+        "instructivo": "Recopilar y listar los temas relevantes para la investigación o el documento.",
+        "producto": {
+          "nombre": "Lista de temas relevantes",
+          "descripcion": "Documento que enumera y describe brevemente los temas clave que requieren referencias bibliográficas."
+        }
+      },
+      {
+        "id": "Paso2",
+        "autor": "LLM",
+        "instructivo": "Basándose en la lista de temas relevantes, recolectar fuentes potenciales para cada tema. Incluir títulos, autores y años de publicación.",
+        "producto": {
+          "nombre": "Lista inicial de fuentes",
+          "descripcion": "Documento que contiene una compilación de fuentes potenciales para cada tema, incluyendo información básica de cada fuente."
+        }
+      },
+      {
+        "id": "Paso3",
+        "autor": "LLM",
+        "instructivo": "Utilizando bases de datos académicas, recolectar citas completas para las fuentes identificadas. Incluir todos los detalles necesarios como DOI, URL, etc.",
+        "producto": {
+          "nombre": "Citas completas recolectadas",
+          "descripcion": "Documento con citas detalladas de cada fuente, incluyendo toda la información bibliográfica disponible."
+        }
+      },
+      {
+        "id": "Paso4",
+        "autor": "Humano",
+        "instructivo": "Revisar la consistencia y relevancia de las citas recolectadas. Verificar que todas las fuentes sean pertinentes y que la información esté completa.",
+        "producto": {
+          "nombre": "Informe de revisión de citas",
+          "descripcion": "Documento que detalla la revisión realizada, incluyendo correcciones necesarias, fuentes a eliminar o añadir, y comentarios sobre la calidad de las citas."
+        }
+      },
+      {
+        "id": "Paso5",
+        "autor": "LLM",
+        "instructivo": "Transformar todas las citas revisadas al formato APA 7ma edición. Asegurar que cada cita cumpla con todas las reglas y convenciones de este estilo.",
+        "producto": {
+          "nombre": "Lista de referencias en formato APA 7",
+          "descripcion": "Documento final con todas las referencias bibliográficas formateadas correctamente según el estilo APA 7ma edición, listas para ser incluidas en el trabajo académico."
+        }
+      }
+    ]
+}
