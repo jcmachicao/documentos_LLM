@@ -1,0 +1,62 @@
+{
+  "procesoEvaluacionPruebasLegales": {
+    "nombre": "Evaluación de Pruebas para Argumentación Legal",
+    "version": "1.0",
+    "pasos": [
+      {
+        "id": "Paso1",
+        "autor": "Humano",
+        "instructivo": "Recolectar y digitalizar todos los documentos relevantes para el caso legal en formato de texto (str).",
+        "producto": {
+          "nombre": "Colección de documentos digitalizados",
+          "descripcion": "Conjunto de archivos de texto que contienen toda la información documental relevante para el caso legal."
+        }
+      },
+      {
+        "id": "Paso2",
+        "autor": "LLM",
+        "instructivo": "Compilar una lista exhaustiva de tipos de evidencias legales aplicables al caso, incluyendo definiciones y criterios de validez.",
+        "producto": {
+          "nombre": "Catálogo de tipos de evidencias legales",
+          "descripcion": "Documento que enumera y describe los diferentes tipos de evidencias legales relevantes para el caso, con sus características y requisitos legales."
+        }
+      },
+      {
+        "id": "Paso3",
+        "autor": "LLM",
+        "instructivo": "Analizar los documentos recolectados para identificar argumentos potenciales que puedan sustentar las evidencias legales catalogadas.",
+        "producto": {
+          "nombre": "Matriz de argumentos y evidencias",
+          "descripcion": "Tabla que relaciona los argumentos identificados en los documentos con los tipos de evidencias legales, incluyendo referencias a los documentos fuente."
+        }
+      },
+      {
+        "id": "Paso4",
+        "autor": "Humano",
+        "instructivo": "Revisar y validar la matriz de argumentos y evidencias, asegurando la relevancia y solidez de cada argumento identificado.",
+        "producto": {
+          "nombre": "Matriz de argumentos y evidencias revisada",
+          "descripcion": "Versión refinada de la matriz que incluye solo los argumentos y evidencias considerados válidos y relevantes tras la revisión humana."
+        }
+      },
+      {
+        "id": "Paso5",
+        "autor": "LLM",
+        "instructivo": "Estructurar un conjunto coherente de evidencias, vinculando argumentos, tipos de evidencias y documentos fuente en un formato lógico y presentable.",
+        "producto": {
+          "nombre": "Estructura de argumentación legal",
+          "descripcion": "Documento estructurado que presenta de manera organizada y lógica el conjunto de evidencias, argumentos y sus fuentes documentales, listo para su uso en la argumentación legal."
+        }
+      },
+      {
+        "id": "Paso6",
+        "autor": "Humano",
+        "instructivo": "Realizar una revisión final de la estructura de argumentación legal, asegurando su solidez, coherencia y alineación con la estrategia legal.",
+        "producto": {
+          "nombre": "Informe final de evaluación de pruebas",
+          "descripcion": "Documento final que presenta la evaluación completa de las pruebas, incluyendo la estructura de argumentación revisada y comentarios sobre su fortaleza y posibles contraargumentos."
+        }
+      }
+    ]
+  }
+}
