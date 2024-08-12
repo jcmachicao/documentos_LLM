@@ -1,0 +1,2080 @@
+{
+  "version": 1,
+  "name": "Human Cognition Map",
+  "description": "",
+  "proxyImages": true,
+  "defaultMap": "map-D359QvvB",
+  "defaultPerspective": null,
+  "attributeRelevance": {},
+  "attributes": [
+    {
+      "_id": "attr-lXbYROVt",
+      "name": "Connection Type",
+      "format": "string",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "list",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": false
+    },
+    {
+      "_id": "attr-60cJDmSH",
+      "name": "Description",
+      "format": "text",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "none",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": false
+    },
+    {
+      "_id": "attr-NViayFHk",
+      "name": "Element Type",
+      "format": "string",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "list",
+      "locked": false,
+      "values": [
+        "Secondary",
+        "Main",
+        "Root Topic"
+      ],
+      "sort": false,
+      "cluster": true
+    },
+    {
+      "_id": "attr-nLmdjHIf",
+      "name": "Label",
+      "format": "string",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "autocomplete",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": false
+    },
+    {
+      "_id": "attr-n6TSpKNw",
+      "name": "Loop Type",
+      "format": "string",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "list",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": false
+    },
+    {
+      "_id": "attr-sd1PXxGB",
+      "name": "Tags",
+      "format": "string",
+      "private": false,
+      "limit": "none",
+      "category": "General",
+      "prompt": "autocomplete",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": true
+    }
+  ],
+  "elements": [
+    {
+      "_id": "elem-1T3LsaGH",
+      "attributes": {
+        "label": "WorkingMemory",
+        "description": "Active processing of information",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-1v4IQc6i",
+      "attributes": {
+        "label": "SocialInfluence",
+        "description": "How people influence each other's thoughts, feelings, and behaviors",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-3TYh4rgy",
+      "attributes": {
+        "label": "Perception",
+        "element type": "Main"
+      }
+    },
+    {
+      "_id": "elem-4Hmk9dZ8",
+      "attributes": {
+        "label": "Learning through association"
+      }
+    },
+    {
+      "_id": "elem-6BhVhIz7",
+      "attributes": {
+        "label": "AlteredStatesOfConsciousness",
+        "description": "Changes in awareness produced by sleep, meditation, hypnosis, or drugs",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-7cX2zJIt",
+      "attributes": {
+        "label": "EmotionalIntelligence",
+        "description": "Ability to understand and use emotions effectively",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-8mDPjkmj",
+      "attributes": {
+        "label": "ClassicalConditioning",
+        "element type": "Secondary",
+        "description": "Learning through association"
+      }
+    },
+    {
+      "_id": "elem-97Ac779N",
+      "attributes": {
+        "label": "Taste perception"
+      }
+    },
+    {
+      "_id": "elem-A99ksujK",
+      "attributes": {
+        "label": "Tone perception"
+      }
+    },
+    {
+      "_id": "elem-B7HrOFMc",
+      "attributes": {
+        "label": "EpisodicMemory",
+        "element type": "Secondary",
+        "description": "Memory of specific events"
+      }
+    },
+    {
+      "_id": "elem-BU5ZSzi8",
+      "attributes": {
+        "label": "EmotionPerception",
+        "element type": "Secondary",
+        "description": "Recognizing emotions in others"
+      }
+    },
+    {
+      "_id": "elem-D3DBqNio",
+      "attributes": {
+        "label": "Emotion",
+        "element type": "Main"
+      }
+    },
+    {
+      "_id": "elem-Dj7yYOew",
+      "attributes": {
+        "label": "DecisionMaking",
+        "description": "Choosing between different options",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-G9VUeN5c",
+      "attributes": {
+        "label": "TasteAndSmell",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-HHzsWtBC",
+      "attributes": {
+        "label": "ProblemSolving",
+        "description": "Identifying problems and determining ways to solve them",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-Ie72oQzf",
+      "attributes": {
+        "label": "Object recognition"
+      }
+    },
+    {
+      "_id": "elem-Ijm1Ufrh",
+      "attributes": {
+        "label": "Recognizing emotions in others"
+      }
+    },
+    {
+      "_id": "elem-IyoDKhON",
+      "attributes": {
+        "label": "Sleep",
+        "description": "Periods of reduced activity and awareness",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-JUWlRN61",
+      "attributes": {
+        "label": "ShortTermMemory",
+        "description": "Temporary storage of information",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-JYJwRIfW",
+      "attributes": {
+        "label": "SustainedAttention",
+        "description": "Maintaining attention for prolonged periods",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-JdFoKe28",
+      "attributes": {
+        "label": "Reasoning",
+        "description": "Drawing conclusions from information",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-KQaNTeL7",
+      "attributes": {
+        "label": "SocialPerception",
+        "description": "Understanding others' behavior in a social context",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-LHJ0Eyzs",
+      "attributes": {
+        "label": "TheoryOfMind",
+        "description": "Understanding that others have thoughts, feelings, and beliefs that are different from one's own",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-M3TXnpLq",
+      "attributes": {
+        "label": "SelfControl",
+        "description": "Ability to regulate one's behavior in the face of temptations and impulses",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-M4dSrTLB",
+      "attributes": {
+        "label": "Phonology",
+        "description": "Study of how sounds function in particular languages",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-M68ed6WT",
+      "attributes": {
+        "label": "Speech perception"
+      }
+    },
+    {
+      "_id": "elem-MvTBMruu",
+      "attributes": {
+        "label": "Memory",
+        "element type": "Main"
+      }
+    },
+    {
+      "_id": "elem-OpBgA8Gn",
+      "attributes": {
+        "label": "AttentionalControl",
+        "description": "Ability to allocate attention resources based on goals",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-OzEEtZfm",
+      "attributes": {
+        "label": "Depth perception"
+      }
+    },
+    {
+      "_id": "elem-Q69RlsvY",
+      "attributes": {
+        "label": "Language",
+        "element type": "Main"
+      }
+    },
+    {
+      "_id": "elem-QLFUAfMF",
+      "attributes": {
+        "label": "Pressure perception"
+      }
+    },
+    {
+      "_id": "elem-RwcSxQZ0",
+      "attributes": {
+        "label": "OperantConditioning",
+        "description": "Learning through reinforcement and punishment",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-SkDbvcDr",
+      "attributes": {
+        "label": "AuditoryPerception",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-Sw6H3K0R",
+      "attributes": {
+        "label": "Semantics",
+        "element type": "Secondary",
+        "description": "Study of meaning in languages"
+      }
+    },
+    {
+      "_id": "elem-TAFbdM6C",
+      "attributes": {
+        "label": "Wakefulness",
+        "element type": "Secondary",
+        "description": "Awareness of the surroundings"
+      }
+    },
+    {
+      "_id": "elem-TZl5ClwJ",
+      "attributes": {
+        "label": "Sound localization"
+      }
+    },
+    {
+      "_id": "elem-Tsx5lGDg",
+      "attributes": {
+        "label": "Temperature perception"
+      }
+    },
+    {
+      "_id": "elem-U4BKoSIe",
+      "attributes": {
+        "label": "Motivation",
+        "element type": "Main"
+      }
+    },
+    {
+      "_id": "elem-VmLhU4ea",
+      "attributes": {
+        "label": "Smell perception"
+      }
+    },
+    {
+      "_id": "elem-VnxiS69A",
+      "attributes": {
+        "label": "Study of meaning in languages"
+      }
+    },
+    {
+      "_id": "elem-VsxLdAus",
+      "attributes": {
+        "label": "Memory for how to do things"
+      }
+    },
+    {
+      "_id": "elem-WYhpakH9",
+      "attributes": {
+        "label": "Dreams",
+        "description": "Experiences that occur during sleep",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-Wh9EoXQH",
+      "attributes": {
+        "label": "Unconscious learning"
+      }
+    },
+    {
+      "_id": "elem-XX6DoYVQ",
+      "attributes": {
+        "label": "DividedAttention",
+        "description": "Concentrating on more than one activity at the same time",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-XlGjndq0",
+      "attributes": {
+        "label": "SemanticMemory",
+        "description": "General knowledge about the world",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-YteFy4es",
+      "attributes": {
+        "label": "Learning by watching others"
+      }
+    },
+    {
+      "_id": "elem-Z4RiY5F2",
+      "attributes": {
+        "label": "Attention",
+        "element type": "Main"
+      }
+    },
+    {
+      "_id": "elem-ZzTDUfu5",
+      "attributes": {
+        "label": "Learning",
+        "element type": "Main"
+      }
+    },
+    {
+      "_id": "elem-a2604sry",
+      "attributes": {
+        "label": "EmotionalResponses",
+        "description": "Reactions to events that have emotional significance",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-b7fRTQLP",
+      "attributes": {
+        "label": "ObservationalLearning",
+        "element type": "Secondary",
+        "description": "Learning by watching others"
+      }
+    },
+    {
+      "_id": "elem-bjIKvAAn",
+      "attributes": {
+        "label": "Awareness of the surroundings"
+      }
+    },
+    {
+      "_id": "elem-cbNp9Gyu",
+      "attributes": {
+        "label": "TactilePerception",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-cpcBHok1",
+      "attributes": {
+        "label": "Managing one's own emotions"
+      }
+    },
+    {
+      "_id": "elem-d3Mg0fb5",
+      "attributes": {
+        "label": "VisualPerception",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-dQgnvvYR",
+      "attributes": {
+        "label": "Syntax",
+        "description": "Study of sentence structure in languages",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-egtSS79Y",
+      "attributes": {
+        "label": "IntrinsicMotivation",
+        "description": "Motivation that comes from within the individual",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-fhwJ8gpj",
+      "attributes": {
+        "label": "Pragmatics",
+        "description": "Study of how context influences language interpretation",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-fiivfC8G",
+      "attributes": {
+        "label": "SelectiveAttention",
+        "description": "Focusing on a specific aspect of experience while ignoring others",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-fukYm5zy",
+      "attributes": {
+        "label": "LongTermMemory",
+        "description": "Permanent storage of information",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-hSJ6H8j7",
+      "attributes": {
+        "label": "Thinking",
+        "element type": "Main"
+      }
+    },
+    {
+      "_id": "elem-hzngAkuN",
+      "attributes": {
+        "label": "Creativity",
+        "description": "Generating new and original ideas",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-i0z5B5d0",
+      "attributes": {
+        "label": "Human Cognition",
+        "element type": "Root Topic"
+      }
+    },
+    {
+      "_id": "elem-kTdPe9KS",
+      "attributes": {
+        "label": "Empathy",
+        "element type": "Secondary",
+        "description": "Feeling what others feel"
+      }
+    },
+    {
+      "_id": "elem-myY14z9v",
+      "attributes": {
+        "label": "ProceduralMemory",
+        "element type": "Secondary",
+        "description": "Memory for how to do things"
+      }
+    },
+    {
+      "_id": "elem-oXyMpNug",
+      "attributes": {
+        "label": "Color perception"
+      }
+    },
+    {
+      "_id": "elem-pIW0gecV",
+      "attributes": {
+        "label": "Motion perception"
+      }
+    },
+    {
+      "_id": "elem-pqqYzru5",
+      "attributes": {
+        "label": "EmotionRegulation",
+        "element type": "Secondary",
+        "description": "Managing one's own emotions"
+      }
+    },
+    {
+      "_id": "elem-pti5lTI7",
+      "attributes": {
+        "label": "SocialCognition",
+        "element type": "Main"
+      }
+    },
+    {
+      "_id": "elem-qWzJ2KyK",
+      "attributes": {
+        "label": "ExtrinsicMotivation",
+        "description": "Motivation that comes from external rewards or punishments",
+        "element type": "Secondary"
+      }
+    },
+    {
+      "_id": "elem-s07mI1Ev",
+      "attributes": {
+        "label": "ImplicitLearning",
+        "element type": "Secondary",
+        "description": "Unconscious learning"
+      }
+    },
+    {
+      "_id": "elem-wFle4E2O",
+      "attributes": {
+        "label": "Feeling what others feel"
+      }
+    },
+    {
+      "_id": "elem-xiw3fNdo",
+      "attributes": {
+        "label": "Consciousness",
+        "element type": "Main"
+      }
+    },
+    {
+      "_id": "elem-zIkfVKlE",
+      "attributes": {
+        "label": "Memory of specific events"
+      }
+    },
+    {
+      "_id": "elem-ztACr2Aq",
+      "attributes": {
+        "label": "GoalSetting",
+        "description": "Process of working towards something",
+        "element type": "Secondary"
+      }
+    }
+  ],
+  "connections": [
+    {
+      "_id": "conn-01MEemYi",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-Q69RlsvY",
+      "to": "elem-M4dSrTLB"
+    },
+    {
+      "_id": "conn-0mEY41Y6",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-ZzTDUfu5",
+      "to": "elem-8mDPjkmj"
+    },
+    {
+      "_id": "conn-12rAhPaj",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-i0z5B5d0",
+      "to": "elem-pti5lTI7"
+    },
+    {
+      "_id": "conn-15I6GZVq",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-xiw3fNdo",
+      "to": "elem-6BhVhIz7"
+    },
+    {
+      "_id": "conn-37uE6vXE",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-xiw3fNdo",
+      "to": "elem-IyoDKhON"
+    },
+    {
+      "_id": "conn-3IgEYLo8",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-b7fRTQLP",
+      "to": "elem-YteFy4es"
+    },
+    {
+      "_id": "conn-4cT49cLd",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-i0z5B5d0",
+      "to": "elem-xiw3fNdo"
+    },
+    {
+      "_id": "conn-5o24hRvW",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-MvTBMruu",
+      "to": "elem-fukYm5zy"
+    },
+    {
+      "_id": "conn-6cCGpLcO",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-myY14z9v",
+      "to": "elem-VsxLdAus"
+    },
+    {
+      "_id": "conn-6qTox8J1",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-hSJ6H8j7",
+      "to": "elem-hzngAkuN"
+    },
+    {
+      "_id": "conn-7QkGHnXw",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-pqqYzru5",
+      "to": "elem-cpcBHok1"
+    },
+    {
+      "_id": "conn-7W3qVX81",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-d3Mg0fb5",
+      "to": "elem-Ie72oQzf"
+    },
+    {
+      "_id": "conn-7aYkaj68",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-s07mI1Ev",
+      "to": "elem-Wh9EoXQH"
+    },
+    {
+      "_id": "conn-8AV3DHUR",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-Sw6H3K0R",
+      "to": "elem-VnxiS69A"
+    },
+    {
+      "_id": "conn-8pnAi9Og",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-D3DBqNio",
+      "to": "elem-a2604sry"
+    },
+    {
+      "_id": "conn-94chyBNy",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-i0z5B5d0",
+      "to": "elem-Q69RlsvY"
+    },
+    {
+      "_id": "conn-AHsE3fId",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-d3Mg0fb5",
+      "to": "elem-oXyMpNug"
+    },
+    {
+      "_id": "conn-AZxFejyj",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-hSJ6H8j7",
+      "to": "elem-Dj7yYOew"
+    },
+    {
+      "_id": "conn-DBSQ1HC2",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-8mDPjkmj",
+      "to": "elem-4Hmk9dZ8"
+    },
+    {
+      "_id": "conn-Eh1nKd0s",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-i0z5B5d0",
+      "to": "elem-hSJ6H8j7"
+    },
+    {
+      "_id": "conn-F9UWnAhZ",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-D3DBqNio",
+      "to": "elem-7cX2zJIt"
+    },
+    {
+      "_id": "conn-FQq58oEs",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-cbNp9Gyu",
+      "to": "elem-Tsx5lGDg"
+    },
+    {
+      "_id": "conn-GsM3Q3lJ",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-i0z5B5d0",
+      "to": "elem-U4BKoSIe"
+    },
+    {
+      "_id": "conn-H8MxESjj",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-xiw3fNdo",
+      "to": "elem-TAFbdM6C"
+    },
+    {
+      "_id": "conn-HCgMfJSq",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-MvTBMruu",
+      "to": "elem-JUWlRN61"
+    },
+    {
+      "_id": "conn-I1DEZlmF",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-D3DBqNio",
+      "to": "elem-BU5ZSzi8"
+    },
+    {
+      "_id": "conn-JWkU5Pp5",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-ZzTDUfu5",
+      "to": "elem-b7fRTQLP"
+    },
+    {
+      "_id": "conn-JrY3ZA0t",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-TAFbdM6C",
+      "to": "elem-bjIKvAAn"
+    },
+    {
+      "_id": "conn-JyYTjRgY",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-Z4RiY5F2",
+      "to": "elem-fiivfC8G"
+    },
+    {
+      "_id": "conn-KCQrYRTo",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-U4BKoSIe",
+      "to": "elem-qWzJ2KyK"
+    },
+    {
+      "_id": "conn-MspsciEA",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-3TYh4rgy",
+      "to": "elem-cbNp9Gyu"
+    },
+    {
+      "_id": "conn-PsyiRMga",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-pti5lTI7",
+      "to": "elem-KQaNTeL7"
+    },
+    {
+      "_id": "conn-Q3a6zM2I",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-U4BKoSIe",
+      "to": "elem-M3TXnpLq"
+    },
+    {
+      "_id": "conn-RiB1arzT",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-B7HrOFMc",
+      "to": "elem-zIkfVKlE"
+    },
+    {
+      "_id": "conn-S1wBh1bp",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-SkDbvcDr",
+      "to": "elem-M68ed6WT"
+    },
+    {
+      "_id": "conn-SP4xWkt9",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-i0z5B5d0",
+      "to": "elem-MvTBMruu"
+    },
+    {
+      "_id": "conn-SXEBhLOC",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-MvTBMruu",
+      "to": "elem-1T3LsaGH"
+    },
+    {
+      "_id": "conn-SczexqdB",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-xiw3fNdo",
+      "to": "elem-WYhpakH9"
+    },
+    {
+      "_id": "conn-Ts5qABTB",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-pti5lTI7",
+      "to": "elem-LHJ0Eyzs"
+    },
+    {
+      "_id": "conn-WnacsSi8",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-SkDbvcDr",
+      "to": "elem-A99ksujK"
+    },
+    {
+      "_id": "conn-WshFYTIJ",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-Z4RiY5F2",
+      "to": "elem-OpBgA8Gn"
+    },
+    {
+      "_id": "conn-XDROiDIC",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-MvTBMruu",
+      "to": "elem-B7HrOFMc"
+    },
+    {
+      "_id": "conn-ZnHK0HmD",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-Q69RlsvY",
+      "to": "elem-fhwJ8gpj"
+    },
+    {
+      "_id": "conn-aTUvtNre",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-Z4RiY5F2",
+      "to": "elem-XX6DoYVQ"
+    },
+    {
+      "_id": "conn-aWwgVZRJ",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-SkDbvcDr",
+      "to": "elem-TZl5ClwJ"
+    },
+    {
+      "_id": "conn-cEYgcjh8",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-cbNp9Gyu",
+      "to": "elem-QLFUAfMF"
+    },
+    {
+      "_id": "conn-d60t8Yc4",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-i0z5B5d0",
+      "to": "elem-ZzTDUfu5"
+    },
+    {
+      "_id": "conn-epxX46y9",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-MvTBMruu",
+      "to": "elem-myY14z9v"
+    },
+    {
+      "_id": "conn-fOY9xu31",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-Q69RlsvY",
+      "to": "elem-Sw6H3K0R"
+    },
+    {
+      "_id": "conn-ff7dZ1f8",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-hSJ6H8j7",
+      "to": "elem-HHzsWtBC"
+    },
+    {
+      "_id": "conn-gIePqrBR",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-Q69RlsvY",
+      "to": "elem-dQgnvvYR"
+    },
+    {
+      "_id": "conn-hPPhIUyp",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-U4BKoSIe",
+      "to": "elem-egtSS79Y"
+    },
+    {
+      "_id": "conn-isg0SENd",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-kTdPe9KS",
+      "to": "elem-wFle4E2O"
+    },
+    {
+      "_id": "conn-iysOzFYg",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-MvTBMruu",
+      "to": "elem-XlGjndq0"
+    },
+    {
+      "_id": "conn-kVOtO9Z5",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-U4BKoSIe",
+      "to": "elem-ztACr2Aq"
+    },
+    {
+      "_id": "conn-kdQa3Eqv",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-d3Mg0fb5",
+      "to": "elem-pIW0gecV"
+    },
+    {
+      "_id": "conn-lHsmjtQZ",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-pti5lTI7",
+      "to": "elem-1v4IQc6i"
+    },
+    {
+      "_id": "conn-lnOyNsD1",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-pti5lTI7",
+      "to": "elem-kTdPe9KS"
+    },
+    {
+      "_id": "conn-m2NPIYQ6",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-i0z5B5d0",
+      "to": "elem-D3DBqNio"
+    },
+    {
+      "_id": "conn-mZeyscbE",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-D3DBqNio",
+      "to": "elem-pqqYzru5"
+    },
+    {
+      "_id": "conn-mhCHpx5Y",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-ZzTDUfu5",
+      "to": "elem-s07mI1Ev"
+    },
+    {
+      "_id": "conn-n0AmC6ty",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-i0z5B5d0",
+      "to": "elem-3TYh4rgy"
+    },
+    {
+      "_id": "conn-pnKpFEI6",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-ZzTDUfu5",
+      "to": "elem-RwcSxQZ0"
+    },
+    {
+      "_id": "conn-qReaXcHM",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-3TYh4rgy",
+      "to": "elem-SkDbvcDr"
+    },
+    {
+      "_id": "conn-rqEd67y5",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-3TYh4rgy",
+      "to": "elem-G9VUeN5c"
+    },
+    {
+      "_id": "conn-tIWex24e",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-Z4RiY5F2",
+      "to": "elem-JYJwRIfW"
+    },
+    {
+      "_id": "conn-uWmw0tC2",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-i0z5B5d0",
+      "to": "elem-Z4RiY5F2"
+    },
+    {
+      "_id": "conn-ugqSnJBF",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-d3Mg0fb5",
+      "to": "elem-OzEEtZfm"
+    },
+    {
+      "_id": "conn-vGIV9RMY",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-3TYh4rgy",
+      "to": "elem-d3Mg0fb5"
+    },
+    {
+      "_id": "conn-w999NpRG",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-G9VUeN5c",
+      "to": "elem-VmLhU4ea"
+    },
+    {
+      "_id": "conn-xBPNxAME",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-BU5ZSzi8",
+      "to": "elem-Ijm1Ufrh"
+    },
+    {
+      "_id": "conn-yfgzRKGV",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-G9VUeN5c",
+      "to": "elem-97Ac779N"
+    },
+    {
+      "_id": "conn-zWIgUmuQ",
+      "direction": "undirected",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-hSJ6H8j7",
+      "to": "elem-JdFoKe28"
+    }
+  ],
+  "loops": [],
+  "maps": [
+    {
+      "_id": "map-D359QvvB",
+      "name": "Untitled map",
+      "description": "",
+      "scale": 1,
+      "center": {
+        "x": 0,
+        "y": 0
+      },
+      "defaultPerspective": "pers-kJhQLbcP",
+      "defaultElementBehavior": "floating",
+      "defaultConnectionDirection": "undirected",
+      "elements": [
+        {
+          "_id": "node-0Y7c94Pz",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-7cX2zJIt"
+        },
+        {
+          "_id": "node-2QM99eY2",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-s07mI1Ev"
+        },
+        {
+          "_id": "node-2mKB1nVg",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-hzngAkuN"
+        },
+        {
+          "_id": "node-36EtyZGV",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-JYJwRIfW"
+        },
+        {
+          "_id": "node-37IvNRlx",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-G9VUeN5c"
+        },
+        {
+          "_id": "node-59sDUwUc",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-fhwJ8gpj"
+        },
+        {
+          "_id": "node-5fmvkVWm",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-VmLhU4ea"
+        },
+        {
+          "_id": "node-5gSZH8JL",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-Dj7yYOew"
+        },
+        {
+          "_id": "node-5lVVyDtM",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-97Ac779N"
+        },
+        {
+          "_id": "node-6FQN8kn6",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-RwcSxQZ0"
+        },
+        {
+          "_id": "node-7BbJmFiI",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-XlGjndq0"
+        },
+        {
+          "_id": "node-7RFESvh5",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-SkDbvcDr"
+        },
+        {
+          "_id": "node-A5stlFdP",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-IyoDKhON"
+        },
+        {
+          "_id": "node-AS0gojdV",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-hSJ6H8j7"
+        },
+        {
+          "_id": "node-Aimg34j0",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-dQgnvvYR"
+        },
+        {
+          "_id": "node-BDV4bTS9",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-M68ed6WT"
+        },
+        {
+          "_id": "node-BsZToEdb",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-XX6DoYVQ"
+        },
+        {
+          "_id": "node-DDzD3WG4",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-1T3LsaGH"
+        },
+        {
+          "_id": "node-DL01a2PY",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-U4BKoSIe"
+        },
+        {
+          "_id": "node-H4jGnSV7",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-BU5ZSzi8"
+        },
+        {
+          "_id": "node-Jnw9VL6o",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-8mDPjkmj"
+        },
+        {
+          "_id": "node-LVd1nInI",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-a2604sry"
+        },
+        {
+          "_id": "node-Le9Ug1Bu",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-6BhVhIz7"
+        },
+        {
+          "_id": "node-NGBvbmUX",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-D3DBqNio"
+        },
+        {
+          "_id": "node-OKfp8kvS",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-OzEEtZfm"
+        },
+        {
+          "_id": "node-PUN6Nlk8",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-pqqYzru5"
+        },
+        {
+          "_id": "node-PaPPZb0b",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-egtSS79Y"
+        },
+        {
+          "_id": "node-PcSbtCA6",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-1v4IQc6i"
+        },
+        {
+          "_id": "node-QRNZdBJo",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-A99ksujK"
+        },
+        {
+          "_id": "node-RUZncMCO",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-kTdPe9KS"
+        },
+        {
+          "_id": "node-T6SEDMov",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-QLFUAfMF"
+        },
+        {
+          "_id": "node-TZ284Wpx",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-fukYm5zy"
+        },
+        {
+          "_id": "node-TqeQN9QI",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-MvTBMruu"
+        },
+        {
+          "_id": "node-XmxbQqTf",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-Sw6H3K0R"
+        },
+        {
+          "_id": "node-Xq5doh8m",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-Tsx5lGDg"
+        },
+        {
+          "_id": "node-XzuOl0IL",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-Q69RlsvY"
+        },
+        {
+          "_id": "node-Y0B1fNtK",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-OpBgA8Gn"
+        },
+        {
+          "_id": "node-YWvSu3tL",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-i0z5B5d0"
+        },
+        {
+          "_id": "node-Yp9XiI06",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-HHzsWtBC"
+        },
+        {
+          "_id": "node-ZwhOvHVV",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-TAFbdM6C"
+        },
+        {
+          "_id": "node-a5ybcdx6",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-M3TXnpLq"
+        },
+        {
+          "_id": "node-abvUaipT",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-3TYh4rgy"
+        },
+        {
+          "_id": "node-af02fTev",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-oXyMpNug"
+        },
+        {
+          "_id": "node-afQZoaI6",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-Ie72oQzf"
+        },
+        {
+          "_id": "node-cjh6JtZv",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-TZl5ClwJ"
+        },
+        {
+          "_id": "node-csEcurho",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-qWzJ2KyK"
+        },
+        {
+          "_id": "node-eAnmBVks",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-myY14z9v"
+        },
+        {
+          "_id": "node-gShmiAdE",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-B7HrOFMc"
+        },
+        {
+          "_id": "node-grbJsa1C",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-JUWlRN61"
+        },
+        {
+          "_id": "node-h3BudH8q",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-xiw3fNdo"
+        },
+        {
+          "_id": "node-huaJmXjA",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-WYhpakH9"
+        },
+        {
+          "_id": "node-iRj65Iai",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-pti5lTI7"
+        },
+        {
+          "_id": "node-kMovqWbL",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-d3Mg0fb5"
+        },
+        {
+          "_id": "node-miSOqdtk",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-fiivfC8G"
+        },
+        {
+          "_id": "node-o6J27AId",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-ztACr2Aq"
+        },
+        {
+          "_id": "node-p2Aggl5i",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-LHJ0Eyzs"
+        },
+        {
+          "_id": "node-qvrPN81w",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-JdFoKe28"
+        },
+        {
+          "_id": "node-r2S9sVt7",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-Z4RiY5F2"
+        },
+        {
+          "_id": "node-rMbTZXiB",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-cbNp9Gyu"
+        },
+        {
+          "_id": "node-ssQ4kL4W",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-M4dSrTLB"
+        },
+        {
+          "_id": "node-tuSD9rEK",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-pIW0gecV"
+        },
+        {
+          "_id": "node-ukmrZtQk",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-b7fRTQLP"
+        },
+        {
+          "_id": "node-wi4Px4x3",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-KQaNTeL7"
+        },
+        {
+          "_id": "node-xcCIEZtE",
+          "position": null,
+          "pinned": false,
+          "style": {},
+          "element": "elem-ZzTDUfu5"
+        }
+      ],
+      "connections": [
+        {
+          "_id": "edge-1Gkt9dqc",
+          "style": {},
+          "connection": "conn-15I6GZVq"
+        },
+        {
+          "_id": "edge-1Y1RdlSo",
+          "style": {},
+          "connection": "conn-Ts5qABTB"
+        },
+        {
+          "_id": "edge-2GmIRGEr",
+          "style": {},
+          "connection": "conn-w999NpRG"
+        },
+        {
+          "_id": "edge-4ckGvVhj",
+          "style": {},
+          "connection": "conn-lnOyNsD1"
+        },
+        {
+          "_id": "edge-6ewhx2zr",
+          "style": {},
+          "connection": "conn-GsM3Q3lJ"
+        },
+        {
+          "_id": "edge-7LGKD1Eo",
+          "style": {},
+          "connection": "conn-WnacsSi8"
+        },
+        {
+          "_id": "edge-8X9lOEJ8",
+          "style": {},
+          "connection": "conn-epxX46y9"
+        },
+        {
+          "_id": "edge-8lpaGJQA",
+          "style": {},
+          "connection": "conn-gIePqrBR"
+        },
+        {
+          "_id": "edge-8t1glEzK",
+          "style": {},
+          "connection": "conn-zWIgUmuQ"
+        },
+        {
+          "_id": "edge-9354jLxu",
+          "style": {},
+          "connection": "conn-kdQa3Eqv"
+        },
+        {
+          "_id": "edge-9tHW6sGq",
+          "style": {},
+          "connection": "conn-JyYTjRgY"
+        },
+        {
+          "_id": "edge-ARDNiODx",
+          "style": {},
+          "connection": "conn-aWwgVZRJ"
+        },
+        {
+          "_id": "edge-BrvRqeM9",
+          "style": {},
+          "connection": "conn-Q3a6zM2I"
+        },
+        {
+          "_id": "edge-BwRBMF2C",
+          "style": {},
+          "connection": "conn-tIWex24e"
+        },
+        {
+          "_id": "edge-Ch9nVr5H",
+          "style": {},
+          "connection": "conn-ugqSnJBF"
+        },
+        {
+          "_id": "edge-Dc2vuXt7",
+          "style": {},
+          "connection": "conn-AHsE3fId"
+        },
+        {
+          "_id": "edge-E6WOS70q",
+          "style": {},
+          "connection": "conn-JWkU5Pp5"
+        },
+        {
+          "_id": "edge-EUfJQFvB",
+          "style": {},
+          "connection": "conn-01MEemYi"
+        },
+        {
+          "_id": "edge-Fcq9tFq7",
+          "style": {},
+          "connection": "conn-qReaXcHM"
+        },
+        {
+          "_id": "edge-Fcuh4wFG",
+          "style": {},
+          "connection": "conn-HCgMfJSq"
+        },
+        {
+          "_id": "edge-GWWIL3zZ",
+          "style": {},
+          "connection": "conn-vGIV9RMY"
+        },
+        {
+          "_id": "edge-GWutHND4",
+          "style": {},
+          "connection": "conn-kVOtO9Z5"
+        },
+        {
+          "_id": "edge-ImAy5LwM",
+          "style": {},
+          "connection": "conn-SXEBhLOC"
+        },
+        {
+          "_id": "edge-J07hI4MZ",
+          "style": {},
+          "connection": "conn-Eh1nKd0s"
+        },
+        {
+          "_id": "edge-KF1l9zfo",
+          "style": {},
+          "connection": "conn-iysOzFYg"
+        },
+        {
+          "_id": "edge-KKxrXc3r",
+          "style": {},
+          "connection": "conn-ff7dZ1f8"
+        },
+        {
+          "_id": "edge-Knr4NMxb",
+          "style": {},
+          "connection": "conn-rqEd67y5"
+        },
+        {
+          "_id": "edge-Ma5yP5rS",
+          "style": {},
+          "connection": "conn-m2NPIYQ6"
+        },
+        {
+          "_id": "edge-NzXVPpNg",
+          "style": {},
+          "connection": "conn-cEYgcjh8"
+        },
+        {
+          "_id": "edge-ORGJ2BSi",
+          "style": {},
+          "connection": "conn-d60t8Yc4"
+        },
+        {
+          "_id": "edge-PKvN2cN6",
+          "style": {},
+          "connection": "conn-lHsmjtQZ"
+        },
+        {
+          "_id": "edge-PXLpwiBd",
+          "style": {},
+          "connection": "conn-SP4xWkt9"
+        },
+        {
+          "_id": "edge-RE6b0KKu",
+          "style": {},
+          "connection": "conn-PsyiRMga"
+        },
+        {
+          "_id": "edge-SXY97Eyz",
+          "style": {},
+          "connection": "conn-KCQrYRTo"
+        },
+        {
+          "_id": "edge-SgeKkZ1h",
+          "style": {},
+          "connection": "conn-S1wBh1bp"
+        },
+        {
+          "_id": "edge-Ufev44Sj",
+          "style": {},
+          "connection": "conn-0mEY41Y6"
+        },
+        {
+          "_id": "edge-UzGoX8l7",
+          "style": {},
+          "connection": "conn-37uE6vXE"
+        },
+        {
+          "_id": "edge-VpaInVnN",
+          "style": {},
+          "connection": "conn-mZeyscbE"
+        },
+        {
+          "_id": "edge-YSyKUQbk",
+          "style": {},
+          "connection": "conn-94chyBNy"
+        },
+        {
+          "_id": "edge-ZZHNtkPU",
+          "style": {},
+          "connection": "conn-SczexqdB"
+        },
+        {
+          "_id": "edge-aqkzmed2",
+          "style": {},
+          "connection": "conn-fOY9xu31"
+        },
+        {
+          "_id": "edge-ePSxGQcu",
+          "style": {},
+          "connection": "conn-pnKpFEI6"
+        },
+        {
+          "_id": "edge-ghF1i4Wr",
+          "style": {},
+          "connection": "conn-uWmw0tC2"
+        },
+        {
+          "_id": "edge-iK1yJGy4",
+          "style": {},
+          "connection": "conn-8pnAi9Og"
+        },
+        {
+          "_id": "edge-jbzUqjwm",
+          "style": {},
+          "connection": "conn-7W3qVX81"
+        },
+        {
+          "_id": "edge-jee4fbjJ",
+          "style": {},
+          "connection": "conn-ZnHK0HmD"
+        },
+        {
+          "_id": "edge-kNOm0hf1",
+          "style": {},
+          "connection": "conn-F9UWnAhZ"
+        },
+        {
+          "_id": "edge-kRq4Wua8",
+          "style": {},
+          "connection": "conn-WshFYTIJ"
+        },
+        {
+          "_id": "edge-ktz17l1F",
+          "style": {},
+          "connection": "conn-XDROiDIC"
+        },
+        {
+          "_id": "edge-mbLFmQOF",
+          "style": {},
+          "connection": "conn-4cT49cLd"
+        },
+        {
+          "_id": "edge-nwHuWKbd",
+          "style": {},
+          "connection": "conn-mhCHpx5Y"
+        },
+        {
+          "_id": "edge-oJTd2Yas",
+          "style": {},
+          "connection": "conn-MspsciEA"
+        },
+        {
+          "_id": "edge-omn01NBW",
+          "style": {},
+          "connection": "conn-yfgzRKGV"
+        },
+        {
+          "_id": "edge-qhArqk1a",
+          "style": {},
+          "connection": "conn-aTUvtNre"
+        },
+        {
+          "_id": "edge-qzBpk1fU",
+          "style": {},
+          "connection": "conn-hPPhIUyp"
+        },
+        {
+          "_id": "edge-rX6cX7nt",
+          "style": {},
+          "connection": "conn-AZxFejyj"
+        },
+        {
+          "_id": "edge-sMdTOah9",
+          "style": {},
+          "connection": "conn-I1DEZlmF"
+        },
+        {
+          "_id": "edge-ukY0qeJt",
+          "style": {},
+          "connection": "conn-H8MxESjj"
+        },
+        {
+          "_id": "edge-wGmuWzpa",
+          "style": {},
+          "connection": "conn-12rAhPaj"
+        },
+        {
+          "_id": "edge-wTxlWTqu",
+          "style": {},
+          "connection": "conn-FQq58oEs"
+        },
+        {
+          "_id": "edge-wxYtKY7m",
+          "style": {},
+          "connection": "conn-5o24hRvW"
+        },
+        {
+          "_id": "edge-ylXwApIb",
+          "style": {},
+          "connection": "conn-n0AmC6ty"
+        },
+        {
+          "_id": "edge-zNZEMyOt",
+          "style": {},
+          "connection": "conn-6qTox8J1"
+        }
+      ],
+      "loops": []
+    }
+  ],
+  "perspectives": [
+    {
+      "_id": "pers-kJhQLbcP",
+      "name": "Untitled view",
+      "style": "@settings {\n  template: custom;\n  element-color: categorize(\"Element Type\", neon2);\n  connection-curvature: 0;\n  element-size: 30;\n  layout-particle-charge: 700;\n  font-size: 70;\n  connection-color: #000000;\n}\n\n"
+    }
+  ]
+}
